@@ -18,3 +18,9 @@ The site is plain HTML, CSS, and JavaScript. No build step or package installati
 - Check publication metadata and paper links against the latest CV.
 - Replace or remove any project card that is not ready to be public.
 
+
+## Homepage slideshow
+
+Add images and video clips to the `slideshow/` folder. Supported image formats are JPG, PNG, GIF, WebP, and AVIF; supported video formats are MP4, WebM, OGG, and MOV (browser support varies, so MP4 is recommended). Files appear in alphabetical order; use names such as `01-robot.jpg` and `02-flight.mp4` to control their order. Each slide appears for one second, and videos play muted. Use descriptive filenames, which also serve as accessible labels.
+
+The GitHub Pages workflow generates the media list automatically when you push to `main`. To preview new files locally before pushing, run `python3 scripts/generate-slideshow.py` from the repository root, then open `index.html`. The slideshow is hidden until at least one supported file is present. Visitors can pause it, and it starts paused when reduced motion is requested.
