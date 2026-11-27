@@ -1,43 +1,18 @@
 window.slideshowMedia = [
   {
-    "src": "slideshow/ChatGPT%20Image%20Nov%2025%2C%202026%2C%2010_42_06%20PM.jpg",
+    "src": "slideshow/1.jpg",
     "type": "image",
-    "label": "ChatGPT Image Nov 25, 2026, 10 42 06 PM"
+    "label": "1"
   },
   {
-    "src": "slideshow/ChatGPT%20Image%20Nov%2025%2C%202026%2C%2010_42_11%20PM.jpg",
+    "src": "slideshow/2.jpg",
     "type": "image",
-    "label": "ChatGPT Image Nov 25, 2026, 10 42 11 PM"
+    "label": "2"
   },
   {
-    "src": "slideshow/ChatGPT%20Image%20Nov%2025%2C%202026%2C%2010_42_26%20PM.jpg",
+    "src": "slideshow/3.jpg",
     "type": "image",
-    "label": "ChatGPT Image Nov 25, 2026, 10 42 26 PM"
-  },
-  {
-    "src": "slideshow/ChatGPT%20Image%20Nov%2025%2C%202026%2C%2010_42_32%20PM.jpg",
-    "type": "image",
-    "label": "ChatGPT Image Nov 25, 2026, 10 42 32 PM"
-  },
-  {
-    "src": "slideshow/ChatGPT%20Image%20Nov%2025%2C%202026%2C%2010_42_37%20PM.jpg",
-    "type": "image",
-    "label": "ChatGPT Image Nov 25, 2026, 10 42 37 PM"
-  },
-  {
-    "src": "slideshow/ChatGPT%20Image%20Nov%2025%2C%202026%2C%2010_42_43%20PM.jpg",
-    "type": "image",
-    "label": "ChatGPT Image Nov 25, 2026, 10 42 43 PM"
-  },
-  {
-    "src": "slideshow/ChatGPT%20Image%20Nov%2025%2C%202026%2C%2010_42_54%20PM.jpg",
-    "type": "image",
-    "label": "ChatGPT Image Nov 25, 2026, 10 42 54 PM"
-  },
-  {
-    "src": "slideshow/ChatGPT%20Image%20Nov%2025%2C%202026%2C%2010_42_58%20PM.jpg",
-    "type": "image",
-    "label": "ChatGPT Image Nov 25, 2026, 10 42 58 PM"
+    "label": "3"
   },
   {
     "src": "slideshow/IMG_3292.MOV",
@@ -50,68 +25,93 @@ window.slideshowMedia = [
     "label": "IMG 3481"
   },
   {
-    "src": "slideshow/photo_1_2026-11-25_23-13-24.jpg",
+    "src": "slideshow/photo_10_2026-11-27_00-08-55.jpg",
     "type": "image",
-    "label": "photo 1 2026 11 25 23 13 24"
+    "label": "photo 10 2026 11 27 00 08 55"
   },
   {
-    "src": "slideshow/photo_1_2026-11-25_23-15-03.jpg",
+    "src": "slideshow/photo_11_2026-11-27_00-08-55.jpg",
     "type": "image",
-    "label": "photo 1 2026 11 25 23 15 03"
+    "label": "photo 11 2026 11 27 00 08 55"
   },
   {
-    "src": "slideshow/photo_2_2026-11-25_23-13-24.jpg",
+    "src": "slideshow/photo_12_2026-11-27_00-08-55.jpg",
     "type": "image",
-    "label": "photo 2 2026 11 25 23 13 24"
+    "label": "photo 12 2026 11 27 00 08 55"
   },
   {
-    "src": "slideshow/photo_2_2026-11-25_23-15-03.jpg",
+    "src": "slideshow/photo_13_2026-11-27_00-08-55.jpg",
     "type": "image",
-    "label": "photo 2 2026 11 25 23 15 03"
+    "label": "photo 13 2026 11 27 00 08 55"
   },
   {
-    "src": "slideshow/photo_3_2026-11-25_23-13-24.jpg",
+    "src": "slideshow/photo_14_2026-11-27_00-08-55.jpg",
     "type": "image",
-    "label": "photo 3 2026 11 25 23 13 24"
+    "label": "photo 14 2026 11 27 00 08 55"
   },
   {
-    "src": "slideshow/photo_3_2026-11-25_23-15-03.jpg",
+    "src": "slideshow/photo_15_2026-11-27_00-08-55.jpg",
     "type": "image",
-    "label": "photo 3 2026 11 25 23 15 03"
+    "label": "photo 15 2026 11 27 00 08 55"
   },
   {
-    "src": "slideshow/photo_4_2026-11-25_23-13-24.jpg",
+    "src": "slideshow/photo_16_2026-11-27_00-08-55.jpg",
     "type": "image",
-    "label": "photo 4 2026 11 25 23 13 24"
+    "label": "photo 16 2026 11 27 00 08 55"
   },
   {
-    "src": "slideshow/photo_4_2026-11-25_23-15-03.jpg",
+    "src": "slideshow/photo_17_2026-11-27_00-08-55.jpg",
     "type": "image",
-    "label": "photo 4 2026 11 25 23 15 03"
+    "label": "photo 17 2026 11 27 00 08 55"
   },
   {
-    "src": "slideshow/photo_5_2026-11-25_23-13-24.jpg",
+    "src": "slideshow/photo_18_2026-11-27_00-08-55.jpg",
     "type": "image",
-    "label": "photo 5 2026 11 25 23 13 24"
+    "label": "photo 18 2026 11 27 00 08 55"
   },
   {
-    "src": "slideshow/photo_5_2026-11-25_23-15-03.jpg",
+    "src": "slideshow/photo_1_2026-11-27_00-08-55.jpg",
     "type": "image",
-    "label": "photo 5 2026 11 25 23 15 03"
+    "label": "photo 1 2026 11 27 00 08 55"
   },
   {
-    "src": "slideshow/photo_6_2026-11-25_23-13-24.jpg",
+    "src": "slideshow/photo_2_2026-11-27_00-08-55.jpg",
     "type": "image",
-    "label": "photo 6 2026 11 25 23 13 24"
+    "label": "photo 2 2026 11 27 00 08 55"
   },
   {
-    "src": "slideshow/photo_6_2026-11-25_23-15-03.jpg",
+    "src": "slideshow/photo_3_2026-11-27_00-08-55.jpg",
     "type": "image",
-    "label": "photo 6 2026 11 25 23 15 03"
+    "label": "photo 3 2026 11 27 00 08 55"
   },
   {
-    "src": "slideshow/photo_7_2026-11-25_23-13-24.jpg",
+    "src": "slideshow/photo_4_2026-11-27_00-08-55.jpg",
     "type": "image",
-    "label": "photo 7 2026 11 25 23 13 24"
+    "label": "photo 4 2026 11 27 00 08 55"
+  },
+  {
+    "src": "slideshow/photo_5_2026-11-27_00-08-55.jpg",
+    "type": "image",
+    "label": "photo 5 2026 11 27 00 08 55"
+  },
+  {
+    "src": "slideshow/photo_6_2026-11-27_00-08-55.jpg",
+    "type": "image",
+    "label": "photo 6 2026 11 27 00 08 55"
+  },
+  {
+    "src": "slideshow/photo_7_2026-11-27_00-08-55.jpg",
+    "type": "image",
+    "label": "photo 7 2026 11 27 00 08 55"
+  },
+  {
+    "src": "slideshow/photo_8_2026-11-27_00-08-55.jpg",
+    "type": "image",
+    "label": "photo 8 2026 11 27 00 08 55"
+  },
+  {
+    "src": "slideshow/photo_9_2026-11-27_00-08-55.jpg",
+    "type": "image",
+    "label": "photo 9 2026 11 27 00 08 55"
   }
 ];
