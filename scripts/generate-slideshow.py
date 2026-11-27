@@ -13,10 +13,8 @@ for path in sorted(folder.iterdir(), key=lambda p: p.name.casefold()):
     extension = path.suffix.lower()
     if not path.is_file() or extension not in image_extensions | video_extensions:
         continue
-    optimized = folder / 'optimized' / (path.name + '.webp')
-    source = 'optimized/' + quote(optimized.name) if optimized.is_file() and extension in image_extensions else quote(path.name)
     items.append({
-        'src': 'slideshow/' + source,
+        'src': 'slideshow/' + quote(path.name),
         'type': 'video' if extension in video_extensions else 'image',
         'label': path.stem.replace('_', ' ').replace('-', ' '),
     })
